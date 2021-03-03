@@ -1,2 +1,2 @@
-# Aki é meu
- Primeiro trabalho versionado
+# Aki, é meu
+ Primeiro trabalho versionado na aula
